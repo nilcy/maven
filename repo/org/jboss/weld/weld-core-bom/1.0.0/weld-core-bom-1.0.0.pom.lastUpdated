@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 01 16:06:53 JST 2014
+default-http\://repository.jboss.org/maven2/.lastUpdated=1391238412950
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391238413304
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact org.jboss.weld\:weld-core-bom\:pom\:1.0.0 from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/org/jboss/weld/weld-core-bom/1.0.0/weld-core-bom-1.0.0.pom. Error code 403, Forbidden

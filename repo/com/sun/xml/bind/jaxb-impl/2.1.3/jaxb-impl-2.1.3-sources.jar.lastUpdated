@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 01 16:07:43 JST 2014
+default-http\://repository.jboss.org/maven2/.lastUpdated=1391238461367
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391238463821
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-impl\:jar\:sources\:2.1.3 from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/com/sun/xml/bind/jaxb-impl/2.1.3/jaxb-impl-2.1.3-sources.jar. Error code 403, Forbidden

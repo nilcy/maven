@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 01 16:07:05 JST 2014
+default-http\://repository.jboss.org/maven2/.lastUpdated=1391238425199
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391238425604
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-parent\:pom\:1.5.9.RC1 from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/org/slf4j/slf4j-parent/1.5.9.RC1/slf4j-parent-1.5.9.RC1.pom. Error code 403, Forbidden

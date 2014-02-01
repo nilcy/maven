@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 01 16:07:10 JST 2014
+default-http\://repository.jboss.org/maven2/.lastUpdated=1391238427761
+https\://raw.github.com/nilcy/maven/master/release/.lastUpdated=1391238430687
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391238427988
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact javax.faces\:jsf-api\:pom\:2.0.0-RC from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/javax/faces/jsf-api/2.0.0-RC/jsf-api-2.0.0-RC.pom. Error code 403, Forbidden
+https\://raw.github.com/nilcy/maven/master/repo/.error=
+http\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/nilcy/maven/master/release/.error=
+https\://raw.github.com/nilcy/maven/master/repo/.lastUpdated=1391238428846

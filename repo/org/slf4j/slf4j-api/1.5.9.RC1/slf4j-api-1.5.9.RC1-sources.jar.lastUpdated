@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 01 16:07:33 JST 2014
+default-http\://repository.jboss.org/maven2/.lastUpdated=1391238452619
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391238453742
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:sources\:1.5.9.RC1 from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/org/slf4j/slf4j-api/1.5.9.RC1/slf4j-api-1.5.9.RC1-sources.jar. Error code 403, Forbidden

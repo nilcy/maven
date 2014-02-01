@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 01 16:07:52 JST 2014
+default-http\://repository.jboss.org/maven2/.lastUpdated=1391238472127
+https\://raw.github.com/nilcy/maven/master/release/.lastUpdated=1391238472845
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391238472361
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact org.glassfish.web\:el-impl\:jar\:sources\:2.1.2-b04 from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/org/glassfish/web/el-impl/2.1.2-b04/el-impl-2.1.2-b04-sources.jar. Error code 403, Forbidden
+https\://raw.github.com/nilcy/maven/master/repo/.error=
+http\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/nilcy/maven/master/release/.error=
+https\://raw.github.com/nilcy/maven/master/repo/.lastUpdated=1391238472599

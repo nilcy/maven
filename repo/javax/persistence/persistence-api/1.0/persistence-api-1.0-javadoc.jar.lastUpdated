@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 01 16:07:47 JST 2014
+default-http\://repository.jboss.org/maven2/.lastUpdated=1391238466221
+https\://raw.github.com/nilcy/maven/master/release/.lastUpdated=1391238467186
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391238466451
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact javax.persistence\:persistence-api\:jar\:javadoc\:1.0 from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/javax/persistence/persistence-api/1.0/persistence-api-1.0-javadoc.jar. Error code 403, Forbidden
+https\://raw.github.com/nilcy/maven/master/repo/.error=
+http\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/nilcy/maven/master/release/.error=
+https\://raw.github.com/nilcy/maven/master/repo/.lastUpdated=1391238466935

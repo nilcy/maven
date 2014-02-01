@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 01 16:07:51 JST 2014
+default-http\://repository.jboss.org/maven2/.lastUpdated=1391238469038
+https\://raw.github.com/nilcy/maven/master/release/.lastUpdated=1391238471852
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391238469268
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact org.testng\:testng\:jar\:javadoc\:5.10 from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/org/testng/testng/5.10/testng-5.10-javadoc.jar. Error code 403, Forbidden
+https\://raw.github.com/nilcy/maven/master/repo/.error=
+http\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/nilcy/maven/master/release/.error=
+https\://raw.github.com/nilcy/maven/master/repo/.lastUpdated=1391238470313

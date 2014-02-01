@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 01 16:07:27 JST 2014
+default-http\://repository.jboss.org/maven2/.lastUpdated=1391238446580
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391238447974
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact javax.validation\:validation-api\:jar\:javadoc\:1.0.0.GA from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA-javadoc.jar. Error code 403, Forbidden

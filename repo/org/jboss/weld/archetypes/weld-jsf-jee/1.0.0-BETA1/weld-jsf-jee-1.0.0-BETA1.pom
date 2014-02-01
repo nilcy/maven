@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+   <modelVersion>4.0.0</modelVersion>
+   <parent>
+      <groupId>org.jboss.weld.archetypes</groupId>
+      <artifactId>weld-archetype-parent</artifactId>
+      <version>1.0.0-BETA1</version>
+      <relativePath>../../pom.xml</relativePath>
+   </parent>
+
+   <groupId>org.jboss.weld.archetypes</groupId>
+   <artifactId>weld-jsf-jee</artifactId>
+   <name>Java EE 6 Archetype</name>
+   <description>Weld archetype for creating a Java EE 6 application using JSF 2.0, CDI 1.0, EJB 3.1 and JPA 2.0 (persistence unit included)</description>
+
+   <packaging>maven-archetype</packaging>
+
+   <build>
+      <extensions>
+         <!-- TODO:  Explain what I do. -->
+         <extension>
+            <groupId>org.apache.maven.archetype</groupId>
+            <artifactId>archetype-packaging</artifactId>
+         </extension>
+      </extensions>
+      <plugins>
+         <!-- TODO:  Explain what I do. -->
+         <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-archetype-plugin</artifactId>
+         </plugin>
+      </plugins>
+   </build>
+</project>

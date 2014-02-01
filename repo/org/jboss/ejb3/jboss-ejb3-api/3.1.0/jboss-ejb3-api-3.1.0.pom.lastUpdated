@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 01 16:07:02 JST 2014
+default-http\://repository.jboss.org/maven2/.lastUpdated=1391238420689
+https\://raw.github.com/nilcy/maven/master/release/.lastUpdated=1391238422399
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391238420937
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact org.jboss.ejb3\:jboss-ejb3-api\:pom\:3.1.0 from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/org/jboss/ejb3/jboss-ejb3-api/3.1.0/jboss-ejb3-api-3.1.0.pom. Error code 403, Forbidden
+https\://raw.github.com/nilcy/maven/master/repo/.error=
+http\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/nilcy/maven/master/release/.error=
+https\://raw.github.com/nilcy/maven/master/repo/.lastUpdated=1391238421678

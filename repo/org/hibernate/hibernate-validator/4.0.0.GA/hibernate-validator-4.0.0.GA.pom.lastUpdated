@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 01 16:07:03 JST 2014
+default-http\://repository.jboss.org/maven2/.lastUpdated=1391238423285
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391238423666
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-validator\:pom\:4.0.0.GA from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/org/hibernate/hibernate-validator/4.0.0.GA/hibernate-validator-4.0.0.GA.pom. Error code 403, Forbidden
